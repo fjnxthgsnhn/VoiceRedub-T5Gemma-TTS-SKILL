@@ -1,0 +1,7 @@
+interface:
+  display_name: "T5Gemma Redub"
+  short_description: "Voice-clone video redubbing workflow"
+  default_prompt: "Use $t5gemma-redub to set up and run a segment-aligned T5Gemma-TTS redub."
+
+policy:
+  allow_implicit_invocation: true
